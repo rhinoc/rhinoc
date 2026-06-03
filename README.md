@@ -4,8 +4,6 @@
 
 I make small tools from tiny irritations, usually with a local-first bend and a soft spot for calm interfaces.
 
-<br />
-
 ## selected work
 
 | project | what it is |
