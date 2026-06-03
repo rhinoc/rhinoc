@@ -10,5 +10,5 @@ I make small tools from tiny irritations, usually with a local-first bend and a 
 | --- | --- |
 | [mailia](https://github.com/rhinoc/mailia) | an email companion that organizes mail around people instead of folders |
 | [lofii](https://github.com/rhinoc/lofii) | a compact lofi player with ambient scenes, custom media, and Live2D desk companions |
-| [purus](https://github.com/rhinoc/purus) | a browser extension for duplicate tab detection, deduplication, and cleaner browser sessions |
+| [liltr](https://github.com/rhinoc/liltr) | a translation tool with OCR and custom API support |
 | [stiki](https://github.com/rhinoc/stiki) | a lightweight sticky-note style desktop app with themes, startup support, and deep links |
