@@ -1,4 +1,4 @@
-<img src="./assets/rhino-crayon.png" width="92" alt="A rough purple crayon doodle of a rhinoceros" />
+<img src="./assets/rhino-pixel.gif" width="92" alt="A pixel art rhinoceros looking around" />
 
 # 👋 hi, i'm rhinoc
 
