@@ -24,7 +24,7 @@ I make small tools from tiny irritations, usually with a local-first bend and a 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rhinoc/stiki"><img src="./assets/work-icons/stiki.png" width="24" height="24" align="absmiddle" alt="Stiki app icon" /> stiki</a><br />
-      a lightweight sticky-note style desktop app with themes, startup support, and deep links
+      a compact macOS sticky-note app for Markdown notes, linked files, and live transcripts
     </td>
   </tr>
 </table>
