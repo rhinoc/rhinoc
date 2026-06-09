@@ -14,7 +14,7 @@ I make small tools from tiny irritations, usually with a local-first bend and a 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rhinoc/lofii"><img src="./assets/work-icons/lofii.png" width="24" height="24" align="absmiddle" alt="Lofii app icon" /> lofii</a><br />
-      a compact lofi player with ambient scenes, custom media, and Live2D desk companions
+      a compact lofi player with ambient scenes, Live2D desk companions, and Agent Companion bubbles for coding sessions
     </td>
   </tr>
   <tr>
