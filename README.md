@@ -9,22 +9,29 @@ I make small tools from tiny irritations, usually with a local-first bend and a 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rhinoc/mailia"><img src="./assets/work-icons/mailia.png" width="24" height="24" align="absmiddle" alt="Mailia app icon" /> mailia</a><br />
-      an email companion that organizes mail around people instead of folders
+      <a href="https://github.com/rhinoc/douvo"><img src="./assets/work-icons/douvo.png" width="24" height="24" align="absmiddle" alt="Douvo app icon" /> douvo</a><br />
+      a tiny Doubao-powered voice input app for macOS
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rhinoc/lofii"><img src="./assets/work-icons/lofii.png" width="24" height="24" align="absmiddle" alt="Lofii app icon" /> lofii</a><br />
-      a compact lofi player with ambient scenes, Live2D desk companions, and Agent Companion bubbles for coding sessions
+      <a href="https://github.com/rhinoc/mailia"><img src="./assets/work-icons/mailia.png" width="24" height="24" align="absmiddle" alt="Mailia app icon" /> mailia</a><br />
+      an email companion that organizes mail around people instead of folders
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/rhinoc/lofii"><img src="./assets/work-icons/lofii.png" width="24" height="24" align="absmiddle" alt="Lofii app icon" /> lofii</a><br />
+      a compact lofi player with ambient scenes, Live2D desk companions, and Agent Companion bubbles for coding sessions
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/rhinoc/liltr"><img src="./assets/work-icons/liltr.png" width="24" height="24" align="absmiddle" alt="Liltr app icon" /> liltr</a><br />
       a translation tool with OCR and custom API support
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/rhinoc/stiki"><img src="./assets/work-icons/stiki.png" width="24" height="24" align="absmiddle" alt="Stiki app icon" /> stiki</a><br />
       a compact macOS sticky-note app for Markdown notes, linked files, and live transcripts
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
