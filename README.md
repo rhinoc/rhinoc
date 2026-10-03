@@ -9,8 +9,8 @@ I make small tools from tiny irritations, usually with a local-first bend and a 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rhinoc/douvo"><img src="./assets/work-icons/douvo.png" width="24" height="24" align="absmiddle" alt="Douvo app icon" /> douvo</a><br />
-      a lightweight macOS voice input app with Doubao ASR and optional AI correction
+      <a href="https://github.com/rhinoc/xprite"><img src="./assets/work-icons/xprite.png" width="24" height="24" align="absmiddle" alt="Xprite app icon" /> xprite</a><br />
+      a local-first pixel art and animation editor for the browser, with Aseprite files and touch and stylus support
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rhinoc/mailia"><img src="./assets/work-icons/mailia.png" width="24" height="24" align="absmiddle" alt="Mailia app icon" /> mailia</a><br />
