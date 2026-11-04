@@ -19,8 +19,8 @@ I make small tools from tiny irritations, usually with a local-first bend and a 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rhinoc/mailia"><img src="./assets/work-icons/mailia.png" width="24" height="24" align="absmiddle" alt="Mailia app icon" /> mailia</a><br />
-      an email companion that organizes mail around people instead of folders
+      <a href="https://github.com/rhinoc/tendi"><img src="./assets/work-icons/tendi.svg" width="24" height="24" align="absmiddle" alt="Tendi app icon" /> tendi</a><br />
+      one home for your coding agents: sessions, skills, and settings in a single local app
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rhinoc/lofii"><img src="./assets/work-icons/lofii.png" width="24" height="24" align="absmiddle" alt="Lofii app icon" /> lofii</a><br />
